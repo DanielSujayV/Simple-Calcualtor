@@ -1,0 +1,43 @@
+.calculator{
+    width:500px;
+    margin:100px;
+    border-radius:100px;
+    border-color:brown; 
+    background-color:#000000;
+    padding:100px;
+    display:flex;
+    flex-wrap:wrap;
+
+
+}
+body{
+    background:hsl(56, 100%, 50%);
+    color:aliceblue;
+}
+h2{
+    font-family: "Raleway", sans-serif;
+                font-optical-sizing:none;
+                font-weight: 600;
+                font-style:normal;
+                color:aliceblue;
+
+}
+h1{
+    color:rgb(98, 0, 255);
+    font-family: "Raleway", sans-serif;
+                font-optical-sizing:none;
+                font-weight: 600;
+                font-style:normal;
+}
+.btn{
+    border-radius:50%;/*We mark it as 50% to make the button as a circle.*/
+    color:#000000;
+    padding:30px;
+    margin-bottom:10px;
+    
+
+}
+#display{
+    width:100%;
+    padding:7px;
+}
