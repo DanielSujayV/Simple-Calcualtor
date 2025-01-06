@@ -15,7 +15,7 @@ body{
     color:aliceblue;
 }
 h2{
-    font-family: "Raleway", sans-serif;
+    font-family: "Raleway", sans-serif !important;
                 font-optical-sizing:none;
                 font-weight: 600;
                 font-style:normal;
